@@ -1,0 +1,6 @@
+invoice_id,vendor_id,invoice_date,amount,currency,description,owner_email
+INV-001,V-10,2026-01-01,1250.00,USD,Office supplies contact alice@example.test,alice@example.test
+INV-002,V-20,2026-01-02,750.50,USD,Subscription,bob@example.test
+INV-002,V-20,2026-01-03,80.00,USD,Duplicate,bob@example.test
+INV-004,V-10,2026-99-02,-30,USD,Correction,alice@example.test
+INV-005,V-30,2026-01-05,450.00,USD,Maintenance,charlie@example.test
